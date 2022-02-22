@@ -1,1 +1,3 @@
-# Chess
+### Chess
+
+> The Chess Clone
